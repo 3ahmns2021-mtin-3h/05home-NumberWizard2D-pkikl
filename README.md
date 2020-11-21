@@ -16,13 +16,15 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Bebas Neue Pro Black
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
 
 ### Lessons Learned: 
+Connection between buttons and C# Scripts
+change a text in the C# Script
 
 Copyright by Peter Kikl
