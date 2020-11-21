@@ -4,10 +4,10 @@
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2020 1.5f1, Visual Studio 2019 16.7.5
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Desktop 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
